@@ -1,12 +1,18 @@
-# Changelog
-
-Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
-
-## [1.0.0] - 09-11-2025
+## [1.1.0] - 10-11-2025
 
 ### Adicionado
-- Estrutura básica do repositório
-- README.md sem descrição do projeto
-- Versão inicial do projeto
-- .gitignore para JavaScript
-- CHANGELOG.md para registro de mudanças
+- Matheus: Inclusão dos arquivos iniciais script.js, index.html e style.css
+- Lucca: Reorganização completa da estrutura em pastas
+- Lucca: Criação das pastas projeto/, css/ e js/
+
+### Alterado
+- Lucca: Movidos arquivos para estrutura organizada
+- Matheus:  Inclusão da descrição completa README.md
+
+### Estrutura
+projeto/
+├── css/
+│ └── [arquivos de estilo]
+├── js/
+│ └── [arquivos JavaScript]
+└── [demais arquivos do projeto]
